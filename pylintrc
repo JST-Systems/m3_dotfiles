@@ -8,7 +8,9 @@ disable=
     wrong-import-position,
     import-outside-toplevel,
     too-many-arguments,
-    too-many-instance-attributes
+    too-many-instance-attributes,
+    too-many-locals,
+    too-many-branches
 
 [LOGGING]
 
