@@ -12,8 +12,5 @@ disable=
     too-many-public-methods,
     too-many-locals,
     too-many-branches,
-    too-few-public-methods
-
-[LOGGING]
-
-logging-format-style=fstr
+    too-few-public-methods,
+    logger-fstring-interpolation
