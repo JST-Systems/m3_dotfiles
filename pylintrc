@@ -13,4 +13,4 @@ disable=
     too-many-locals,
     too-many-branches,
     too-few-public-methods,
-    logger-fstring-interpolation
+    logging-fstring-interpolation
